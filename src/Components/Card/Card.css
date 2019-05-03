@@ -1,0 +1,16 @@
+.card-container {
+  width: 85%;
+  height: 65%;
+  background: #EBEBEB;
+  margin-top: 7%;
+  position: relative;
+}
+
+.page-count-container {
+  width: 5%; 
+  height: 10%;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  font-size: 25px;
+}
